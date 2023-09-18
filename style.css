@@ -1,0 +1,37 @@
+.Portfolio{
+    text-align: center;
+    background-color: rgb(208, 131, 131);
+    margin: 12px;
+    padding: 33px;
+    border: 2px solid brown;
+}
+.pro1{
+    text-align: center;
+    background: #f7cfcf;
+    margin: 12px;
+    padding: 33px;
+    border: 2px solid brown;
+}
+.h2{
+    text-align: center;
+    background-color: paleturquoise;
+    margin: 12px;
+    padding: 33px;
+    border: 2px solid brown;
+}
+.kd3{
+    text-align: center;
+    background-color: rgb(247, 188, 247);
+    margin: 12px;
+    padding: 33px;
+    border: 2px solid brown;
+}
+.anime{ text-align: center;
+    background-color: rgb(247, 244, 188);
+    margin: 12px;
+    padding: 33px;
+    border: 2px solid brown;
+}
+.para{
+    text-align: center;
+}
